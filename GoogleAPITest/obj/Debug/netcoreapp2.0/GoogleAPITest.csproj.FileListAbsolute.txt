@@ -1,0 +1,12 @@
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/bin/Debug/netcoreapp2.0/client_secret2.json
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/bin/Debug/netcoreapp2.0/GoogleAPITest.deps.json
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/bin/Debug/netcoreapp2.0/GoogleAPITest.runtimeconfig.json
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/bin/Debug/netcoreapp2.0/GoogleAPITest.runtimeconfig.dev.json
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/bin/Debug/netcoreapp2.0/GoogleAPITest.dll
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/bin/Debug/netcoreapp2.0/GoogleAPITest.pdb
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/obj/Debug/netcoreapp2.0/GoogleAPITest.csproj.CoreCompileInputs.cache
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/obj/Debug/netcoreapp2.0/GoogleAPITest.AssemblyInfoInputs.cache
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/obj/Debug/netcoreapp2.0/GoogleAPITest.AssemblyInfo.cs
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/obj/Debug/netcoreapp2.0/GoogleAPITest.dll
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/obj/Debug/netcoreapp2.0/GoogleAPITest.pdb
+/Users/shefalivashishtha/Projects/GoogleAPITest/GoogleAPITest/obj/Debug/netcoreapp2.0/GoogleAPITest.csprojResolveAssemblyReference.cache

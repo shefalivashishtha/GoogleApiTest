@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CB2C0911-9E38-4F6B-8882-97CF87D01F96}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoogleAPITest/Program.cs">
+    <Files>
+      <File FileName="GoogleAPITest/Program.cs" Line="116" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GoogleAPITest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
