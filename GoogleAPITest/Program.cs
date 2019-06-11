@@ -37,7 +37,6 @@ namespace GoogleAPITest
             CalendarService calendarService = new CalendarService(new BaseClientService.Initializer()
             {
                 HttpClientInitializer = credential,
-                // ApiKey = "AIzaSyBDi7lgN343WnLralgfIdZWwh6_4t_ll4M",
                 ApplicationName = "Travel Reminder"
             });
 
@@ -70,7 +69,7 @@ namespace GoogleAPITest
 
                 EventAttendee ea1 = new EventAttendee();
                 ea1.DisplayName = "Shefali";
-                ea1.Email = "vashishthashefali15@gmail.com";
+                ea1.Email = "xyz@gmail.com";
                 ea1.Organizer = false;
                 ea1.Resource = false;
                 IList<EventAttendee> ealist = new List<EventAttendee>();
